@@ -1,5 +1,6 @@
 # Prerequisites
 #
+#just writing something for a new commit
 - JDK 17 
 - Maven 3.9 
 - MySQL 8
